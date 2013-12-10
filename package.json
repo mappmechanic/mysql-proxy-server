@@ -1,0 +1,8 @@
+{
+        "name":"mysql-proxy-server",
+        "version":"0.0.1",
+        "dependencies":{
+         "express":"3.x",
+         "moment":"1.7.2"
+        }
+}
